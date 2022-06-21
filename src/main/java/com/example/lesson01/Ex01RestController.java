@@ -15,6 +15,7 @@ public class Ex01RestController {
 
 	// @Controller + @ResponseBody => MessageConverter 클래스-> jackson 라이브러리
 	// http://localhost:8080/lesson01/ex01/3
+	// 수정
 	@RequestMapping("/3")
 	public String ex01_3() {
 		return "@RestController를 사용해서 String을 리턴해본다.";
