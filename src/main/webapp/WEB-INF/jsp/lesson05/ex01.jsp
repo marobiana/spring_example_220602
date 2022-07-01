@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>JSTL Core 라이브러리(1)</title>
 </head>
 <body>
 	<h2>1. 변수 정의하기 (c:set)</h2>
