@@ -115,6 +115,7 @@ $(document).ready(function() {
 			// response
 			, success: function(data) {
 				alert(data);
+				location.href = "https://google.com";
 			}
 			, complete: function(data) {
 				alert("완료");
